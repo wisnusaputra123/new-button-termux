@@ -1,5 +1,5 @@
 <?php
-# mau ngapain??
+#mau ngapain??
 system("clear");
 echo "
 
