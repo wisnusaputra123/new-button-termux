@@ -1,5 +1,5 @@
 <?php
-
+# mau ngapain??
 system("clear");
 echo "
 
@@ -30,7 +30,7 @@ include $dir . '/' . $file_to_write;
 system('termux-reload-settings');
 system("clear");
 echo "\e[0;41m#####################
- #[+] BERHASIL [+]#
+##[+] BERHASIL [+]##
 ####################\e[0;36m
 
 Silahkan Login ulang termux anda!
