@@ -1,5 +1,5 @@
 <?php
-/*
+
 system("clear");
 echo "
 
